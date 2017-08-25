@@ -14,7 +14,7 @@ public class Introduction
     public static void main(String[] args)
     {
         // initialise instance variables
-        System.out.println("my name is Erik Blom");
+        System.out.println("my name is Erik Bloom");
         System.out.println("I was born in Greenville.");
         System.out.println("i went to J.L. Mann.");
         System.out.println("my daughter, doesnt exist.");
